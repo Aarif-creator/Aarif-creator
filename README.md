@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/profile.png" width="150" alt="Aarif">
+  <img src="assets/profile.jpg" width="150" alt="Aarif">
 </p>
 
 <h1 align="center">Aarif</h1>
